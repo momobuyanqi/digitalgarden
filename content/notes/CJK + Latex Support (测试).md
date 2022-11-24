@@ -3,7 +3,7 @@ title: "CJK + Latex Support (测试)"
 ---
 
 ## Chinese, Japanese, Korean Support
-几乎在我们意识到之前，我们已经离开了地面。（这个可以编辑？）[[content/notes/这是WYGG的第一次测试]]
+几乎在我们意识到之前，我们已经离开了地面。（这个可以编辑？momo）[[content/notes/这是WYGG的第一次测试]]
 - [[notes/2022-11-21]]
 - [[wygg fist note]]
 
